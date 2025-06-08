@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Eazybank accounts related PROD APIs"
   contactDetails:
     name: "Sougata Mitra - Product Owner"
-    email: "sougatamitra@gmail.com"
+    email: "{cipher}25129194afec3b96ce0d29705718b695fd7c9b36ef2ec2f63f3122e195b3d9fbbc22a7a37baba1b2ca5c30ca9496f008"
   onCallSupport:
     - (+91)9862576287
     - (+91)8267181990
