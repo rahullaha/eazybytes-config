@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Eazybank accounts related Dev APIs"
   contactDetails:
     name: "Rahul Laha - Developer"
-    email: "rahullaha@gmail.com"
+    email: "{cipher}a97e8e9cac42795e9de268c0ffdee26d8308ef365bca368926fde429540222c52f90017c5bb453b3696dd7754af7797b"
   onCallSupport:
     - (+91)9862576287
     - (+91)8267181990
