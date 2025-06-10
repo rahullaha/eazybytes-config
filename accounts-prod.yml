@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 accounts:
-  message: "Welcome to Eazybank accounts related PROD APIs"
+  message: "Welcome to Eazybank accounts related PRODUCTION APIs"
   contactDetails:
     name: "Sougata Mitra - Product Owner"
     email: "{cipher}25129194afec3b96ce0d29705718b695fd7c9b36ef2ec2f63f3122e195b3d9fbbc22a7a37baba1b2ca5c30ca9496f008"
