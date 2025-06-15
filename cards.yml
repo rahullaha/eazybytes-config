@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to EazyBank cards related DEV APIs "
+  message: "Welcome to EazyBank cards related docker APIs "
   contactDetails:
     name: "Dragos Lech - Developer"
     email: "{cipher}d53057d680976e28870551c9a01ef4da481b72a25b1d80d9994a2c2618194836db76f42d09de3b51936c1a0be2df7428"
